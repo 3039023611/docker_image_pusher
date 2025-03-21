@@ -1,5 +1,8 @@
 nginx
 python:3.8.10-slim-buster
+openjdk8:latest
+openjdk16:latest
+openjdk17:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
