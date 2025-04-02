@@ -1,6 +1,8 @@
-openjdk:8
-openjdk:16
-openjdk:17
+mysql:latest
+redis:latest
+#openjdk:8
+#openjdk:16
+#openjdk:17
 #nginx
 #python:3.8.10-slim-buster
 #支持私库
