@@ -1,5 +1,6 @@
-mysql:latest
-redis:latest
+gotson/komga:latest
+#mysql:latest
+#redis:latest
 #openjdk:8
 #openjdk:16
 #openjdk:17
