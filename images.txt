@@ -1,4 +1,5 @@
-gotson/komga:latest
+hectorqin/reader:latest
+#gotson/komga:latest
 #mysql:latest
 #redis:latest
 #openjdk:8
