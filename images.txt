@@ -1,4 +1,4 @@
-mathieui/BookBrowser:latest
+mathieui/bookbrowser:latest
 #hectorqin/reader:latest
 #gotson/komga:latest
 #mysql:latest
